@@ -1,0 +1,5 @@
+Lab 09 se realizó en el proyecto utilizando el modelo relacional elaborado:  https://github.com/Leonille-mx/via-diseno/tree/develop
+
+Commit(s): 
+
+https://github.com/Leonille-mx/via-diseno/commit/82c20906dc41d977dc2e2404be03b5f5f2ad2a93
