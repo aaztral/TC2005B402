@@ -68,3 +68,8 @@ function testProblema5() {
     console.assert(inverso(100) === 1, "Error en testProblema5 con ceros");
     mostrarResultado(`<p>Tests del problema 5 completados. Ver consola para detalles.</p>`);
 }
+
+document.addEventListener('DOMContentLoaded', function () {
+    var elems = document.querySelectorAll('.sidenav');
+    M.Sidenav.init(elems);
+});
