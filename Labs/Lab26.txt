@@ -1,0 +1,16 @@
+
+Lab 26 se realizó en el proyecto: https://github.com/Leonille-mx/via-diseno/tree/develop
+
+Commit(s):
+
+https://github.com/Leonille-mx/via-diseno/commit/d6abe016cff51913887f11b70c6ab60b2aa2714d
+
+https://github.com/Leonille-mx/via-diseno/commit/e11ae250a80d8edd3f459ecd2564ad1e467611ef
+
+https://github.com/Leonille-mx/via-diseno/commit/5c9d31e31c52a172164902406e6ca60598939fe9
+
+https://github.com/Leonille-mx/via-diseno/commit/3a5ee759b9891eb8e44f9983951cd0bc9e468b56
+
+https://github.com/Leonille-mx/via-diseno/commit/01fb9181c722657576dd1a7bc4325421b2c35277
+
+https://github.com/Leonille-mx/via-diseno/commit/f94fef709d908d31dc112560672cd3f0f5e05c23
